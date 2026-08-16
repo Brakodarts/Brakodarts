@@ -9,7 +9,7 @@
 
 ### 🧪 My Lab: Featured Projects
 
-#### 💻 SOFTWARE DEVELOPMENT
+#### 💻 FULL STACK DEVELOPMENT
 * ⏱️ **[Stride](https://github.com/Brakodarts/Stride):** A robust Web App designed for efficient Task and Time Management for Self Learners with Skill progress and Dashboard.
 * 🌑 **[Moon Scrapper](https://github.com/Brakodarts/Moon-Scrapper):** A resource-management City Builder Game packed with intense survival aspects.
 
