@@ -45,5 +45,4 @@ Looking for someone who thinks outside the box? Reach out:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brakodarts&theme=radical" alt="GitHub Summary Card">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakodarts&layout=compact&theme=radical" alt="Top Languages Percentage Card">
 </div>
