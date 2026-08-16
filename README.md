@@ -10,7 +10,7 @@
 ### 🧪 My Lab: Featured Projects
 
 #### 💻 SOFTWARE DEVELOPMENT
-* ⏱️ **[Stride](https://github.com/Brakodarts/Stride):** A robust Web App designed for efficient Task and Time Management.
+* ⏱️ **[Stride](https://github.com/Brakodarts/Stride):** A robust Web App designed for efficient Task and Time Management for Self Learners with Skill progress and Dashboard.
 * 🌑 **[Moon Scrapper](https://github.com/Brakodarts/Moon-Scrapper):** A resource-management City Builder Game packed with intense survival aspects.
 
 #### 📊 DATA ANALYSIS
@@ -45,4 +45,5 @@ Looking for someone who thinks outside the box? Reach out:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brakodarts&theme=radical" alt="GitHub Summary Card">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakodarts&layout=compact&theme=radical" alt="Top Languages Percentage Card">
 </div>
